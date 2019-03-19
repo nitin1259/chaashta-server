@@ -1,0 +1,15 @@
+{
+  "name": "chaashta-server",
+  "version": "1.0.0",
+  "description": "chaasta server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "nsingh",
+  "license": "ISC",
+  "engines": {
+    "node": "8.x"
+  }
+}

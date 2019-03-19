@@ -1,0 +1,57 @@
+[
+    {
+        "id": "0",
+        "productName": "The Bun Samosa",
+        "image": "bunSamosa.jpg",
+        "ing_1": "Large Samosa 1",
+        "ing_2": "Large Bun 1",
+        "ing_3": "Paudhina Chutnie",
+        "cal": "Contain 50 calories",
+        "price": "25",
+        "description": "Apply butter to both the sides of the buns and toast them on a griddle until the undersides are just about golden brown. Remove and set aside. Apply green chutney / Tamarind Date Chutney to the one part of the bun, crush the samosa and arrange on it so it doesn't fall off the bun. Place the onion and tomato slices, drizzle the sauces of your choice and cover with the top portion of the bun. Repeat for the rest of the buns. Serve it with a beverage of your choice for a filling lunch or dinner or a snack."
+    },
+    {
+        "id": "1",
+        "productName": "Creamy Coffee",
+        "image": "coffee.jpg",
+        "ing_1": "FRESH MILK 75%",
+        "ing_2": "SPRESSO SHOT 20%",
+        "ing_3": "ORGANIC COCONUT FLOWER 5%",
+        "cal": "Contain 150 calories",
+        "price": "30",
+        "description": "This is an elegant pack that makes 25 servings of Colombian Brew Instant Coffee, made with handpicked 100% pure coffee beans using authentic Colombian techniques. Colombian Brew is inspired by Francisco Romero, a priest in the mid-16th century Colombia that started its coffee penance.!"
+    },
+    {
+        "id": "2",
+        "productName": "Tassimo Leamon Tea",
+        "image": "tassimo.png",
+        "ing_1": "FILTER WATER 75%",
+        "ing_2": "LEMON DROP 20%",
+        "ing_3": "PAUDINA LEAVES 5%",
+        "cal": "BURN 50 calories",
+        "price": "20",
+        "description": "Lemon is very rich in Vitamin C, and is a strong natural antioxidant, which helps to neutralize free radicals. This same reason implies that the risk of cancer is lesser in an individual who regularly consumes lemon tea. There is not much medical proof and analysis to substantiate this claim, but it wouldn't be much of a surprise if it were actually true."
+    },
+    {
+        "id": "3",
+        "productName": "Masala Maza Chai",
+        "image": "tea.png",
+        "ing_1": "FRESH MILK 75%",
+        "ing_2": "WATER 15%",
+        "ing_3": "sUGER FREE & TEA 10%",
+        "cal": "Contain 10 calories",
+        "price": "10",
+        "description": "Masala tea is a traditional beverage of Indian origin. Tea is brewed with aromatic spices, each with numerous health benefits. This masala tea has several untold benefits that must not be missed. Some commonly used spices are ginger, cardamom, cinnamon, cloves, and black pepper. These have frequently been mentioned in the Ayurveda as treatment for many digestive issues."
+    },
+    {
+        "id": "4",
+        "productName": "Cheese Veg Sandwich",
+        "image": "vegSandwich.jpg",
+        "ing_1": "fINE GRAIN BROWN BREAD",
+        "ing_2": "FRESH CHEESE",
+        "ing_3": "MULTI VEGGIES",
+        "cal": "Contain 75 calories",
+        "price": "25",
+        "description": "Our sandwich recipes are packed nutritious ingredients and feature slow-release energy from lean protein, fish rich in omega-3 and filling beans. When it comes to bread, some shop-bought loaves can be high in salt, so keep an eye on portion sizes. Always go for a fibre-rich loaf rather than refined white bread. Along with thin-cut wholemeal bread, we've used wholemeal and seed wraps and pitta, but crispy lettuce also makes a great wrap and is gluten-free. "
+    }
+]
